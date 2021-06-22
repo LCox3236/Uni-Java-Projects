@@ -1,0 +1,2 @@
+myobjecttest.MyObjectTest
+myobjecttest.MyClass
